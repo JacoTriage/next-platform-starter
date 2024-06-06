@@ -7,7 +7,7 @@ import { ContextAlert } from 'components/context-alert';
 export const metadata = {
     title: 'Image CDN'
 };
-
+//coucoucoucou
 const sampleImage = '/images/corgi.jpg';
 
 const ctx = getNetlifyContext();
